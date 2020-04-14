@@ -1,4 +1,6 @@
-how are you?
 hay man
 br_2 new line
 bye igor
++
+=
+*
