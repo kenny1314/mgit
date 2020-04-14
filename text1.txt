@@ -1,4 +1,3 @@
 how are you?
-hay man
-br_2 new line
+______
 bye igor
