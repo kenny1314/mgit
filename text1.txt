@@ -6,3 +6,4 @@ h
 vot tak vo
 git commit -a
 okk new commit 1
+okk new commit 2
